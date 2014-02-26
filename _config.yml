@@ -1,0 +1,7 @@
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+pygments: true
+
+title_tag_text: Graphic Sizes - Because remembering all those web graphic sizes is hard
+h1_tag_text: Graphic Sizes

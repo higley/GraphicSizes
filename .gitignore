@@ -1,0 +1,5 @@
+_site/
+*.lock
+
+package.json
+node_modules/

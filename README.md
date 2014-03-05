@@ -66,6 +66,14 @@ Large     | 310 x 310 | 248 x 248 | 558 x 558
 
 [Source](http://msdn.microsoft.com/en-us/library/ie/dn455106\(v=vs.85\).aspx)
 
+##Google+
+###Cover Photo
+* 1080 x 608 (Recommended size)
+* 480 x 270 (Minimum size)
+* 2120 x 1192 (Maximum size)
+
+[Source](https://support.google.com/plus/answer/1057172?hl=en)
+
 ##Resources
 [Iconogen]() - Converts .png file into Apple Touch, favicon, and Windows Tile icons
 
